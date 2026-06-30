@@ -1,5 +1,5 @@
 # Hello, Meet Austin Ekwem
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ekwem-austin-48b543258/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a cybersecurity practicioner focused on blue-team defense and detection engineering. I build hands-on detection and response labs using SIEM platform and network monitoring tools.
